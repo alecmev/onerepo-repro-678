@@ -1,0 +1,11 @@
+{
+  "name": "onerepo-repro-678",
+  "private": true,
+  "packageManager": "yarn@4.1.1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "onerepo": "^1.1.0"
+  }
+}
